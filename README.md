@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yumissed&show_icons=true&locale=en" alt="yumissed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yumissed&" alt="yumissed" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=yumissed&locale=fr" alt="yumissed" /></p>
