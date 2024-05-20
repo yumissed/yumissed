@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **Baba is You in Java**
 
-- 🌱 I’m currently learning **C++, nASM & Java**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/yumerty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yumerty" height="30" width="40" /></a>
